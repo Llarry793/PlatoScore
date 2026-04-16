@@ -16,7 +16,6 @@ PlatoScore nace para digitalizar y simplificar la gestión de competiciones de t
 - 👥 **Gestión de escuadras**: organiza los tiradores en escuadras dentro de cada tirada, con relación 1-N gestionada por Room.
 - 🎯 **Gestión de tiradores**: registra nombre, apellidos, DNI, número de licencia, platos rotos y categorías de cada participante.
 - 🏆 **Clasificaciones automáticas**: el sistema calcula en tiempo real la posición de cada tirador en su categoría (local/general y subcategorías), ordenando por platos rotos de forma descendente.
-- 💰 **Cálculo de puntuación económica**: el total de puntos de cada tirador se calcula multiplicando sus platos rotos por el precio de su categoría.
 - 💾 **Persistencia local**: todos los datos se almacenan en una base de datos SQLite local mediante Room, sin necesidad de conexión a internet.
 
 ***
@@ -106,8 +105,7 @@ Es el ViewModel con mayor lógica de negocio. El método `generarResultados()` r
 1. Separa los tiradores por categoría (locales, generales, juniors, seniors, damas).
 2. Ordena cada grupo de forma descendente por platos rotos.
 3. Asigna la posición de clasificación correspondiente a cada tirador en cada categoría a la que pertenece.
-4. Calcula el total de puntos como `platosRotos × precio`.
-5. Devuelve una lista de objetos `Resultado` lista para mostrar en la UI.
+4. Devuelve una lista de objetos `Resultado` lista para mostrar en la UI.
 
 ***
 
