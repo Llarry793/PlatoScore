@@ -130,7 +130,7 @@ Es el ViewModel con mayor lógica de negocio. El método `generarResultados()` r
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/platoscore.git
+   git clone https://github.com/Llarry793/PlatoScore.git
    ```
 2. Abre el proyecto en Android Studio.
 3. Sincroniza las dependencias de Gradle.
