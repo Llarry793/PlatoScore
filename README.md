@@ -14,11 +14,11 @@ PlatoScore digitaliza la gestión de competiciones de tiro al plato. Con PlatoSc
 
 | Lista de tiradas | Datos de la tirada | Escuadras |
 |:----------------:|:-----------------:|:---------:|
-| ![Lista de tiradas](screenshots/PantallaPrincipalPlatoScore.jpg) | ![Datos de la tirada](screenshots/InfoTiradaPlatoScore_1.jpg) | ![Escuadras](screenshots/InfoTiradaPlatoScore_2.jpg) |
+| ![Lista de tiradas](screenshots/PantallaPrincipalPlatoScore.png) | ![Datos de la tirada](screenshots/InfoTiradaPlatoScore_1.png) | ![Escuadras](screenshots/InfoTiradaPlatoScore_2.png) |
 
 | Tiradores de escuadra | Clasificaciones |
 |:--------------------:|:---------------:|
-| ![Tiradores de escuadra](screenshots/InfoEscuadraPlatoScore.jpg) | ![Clasificaciones](screenshots/ResultadosTiradaPlatoScore.jpg) |
+| ![Tiradores de escuadra](screenshots/InfoEscuadraPlatoScore.png) | ![Clasificaciones](screenshots/ResultadosTiradaPlatoScore.png) |
 
 ***
 
