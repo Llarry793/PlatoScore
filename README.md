@@ -14,11 +14,11 @@ PlatoScore digitaliza la gestión de competiciones de tiro al plato. Con PlatoSc
 
 | Lista de tiradas | Datos de la tirada | Escuadras |
 |:----------------:|:-----------------:|:---------:|
-| ![Lista de tiradas](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/fef82d82-1f4e-4a08-a396-20d111d5b1b2) | ![Datos de la tirada](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/040c2574-a88f-4129-9e96-432d2e5a8a55) | ![Escuadras](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/2c81e8ec-58d8-4b1d-9c88-58a5be33803d) |
+| ![Lista de tiradas](screenshots/PantallaPrincipalPlatoScore.jpg) | ![Datos de la tirada](screenshots/InfoTiradaPlatoScore_1.jpg) | ![Escuadras](screenshots/InfoTiradaPlatoScore_2.jpg) |
 
 | Tiradores de escuadra | Clasificaciones |
 |:--------------------:|:---------------:|
-| ![Tiradores de escuadra](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/74e99c30-b983-4a9d-98d9-7d1f0821fd9c) | ![Clasificaciones](https://agi-prod-file-upload-public-main-use1.s3.amazonaws.com/c0ebb047-f66f-4ef3-9d15-8da02ab4cee7) |
+| ![Tiradores de escuadra](screenshots/InfoEscuadraPlatoScore.jpg) | ![Clasificaciones](screenshots/ResultadosTiradaPlatoScore.jpg) |
 
 ***
 
