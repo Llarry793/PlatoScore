@@ -24,11 +24,11 @@ PlatoScore digitaliza la gestión de competiciones de tiro al plato. Con PlatoSc
 
 ## Características principales
 
-- 📋 **Gestión de tiradas**: crea, edita y elimina competiciones con nombre, fecha y precios por categoría (local, general, junior, senior, dama).
-- 👥 **Gestión de escuadras**: organiza los tiradores en escuadras, con relación 1-N gestionada por Room.
-- 🎯 **Gestión de tiradores**: registra nombre, apellidos, DNI, número de licencia, platos rotos y categorías de cada participante.
-- 🏆 **Clasificaciones automáticas**: el sistema calcula en tiempo real la posición de cada tirador en su categoría, ordenando por platos rotos de forma descendente.
-- 💾 **Persistencia local**: todos los datos se almacenan en una base de datos SQLite local mediante Room, sin necesidad de conexión a internet.
+- **Gestión de tiradas**: crea, edita y elimina competiciones con nombre, fecha y precios por categoría (local, general, junior, senior, dama).
+- **Gestión de escuadras**: organiza los tiradores en escuadras, con relación 1-N gestionada por Room.
+- **Gestión de tiradores**: registra nombre, apellidos, DNI, número de licencia, platos rotos y categorías de cada participante.
+- **Clasificaciones automáticas**: el sistema calcula en tiempo real la posición de cada tirador en su categoría, ordenando por platos rotos de forma descendente.
+- **Persistencia local**: todos los datos se almacenan en una base de datos SQLite local mediante Room, sin necesidad de conexión a internet.
 
 ***
 
